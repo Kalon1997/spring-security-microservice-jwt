@@ -1,0 +1,4 @@
+apigateway/application.properties
+forumserviceregistry/application.properties
+posts/application.properties
+users/application.properties
